@@ -32,12 +32,6 @@
 
 <style>
 
-footer {
-    font-size: 20px;
-    margin-bottom: 20px;
-    color:white;
-    background-color: black;
-}
 
 .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
@@ -63,13 +57,14 @@ footer {
 	<?php require_once 'template/sobre.php';?>
 	<?php require_once 'template/nossotrabalho.php';?>
 	<?php require_once 'template/contato.php';?>
-	<?php require_once 'template/footer.php';?>
+	
  </div>
+ 
 </div>
   	
-	
-    
 
+	<?php require_once 'template/footer.php';?>
+    
  
 
 

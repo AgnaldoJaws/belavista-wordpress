@@ -7,7 +7,7 @@
 
 				<div class="col-md-5">
 					
-		 			 <img alt="" class="img-responsive img-circle" src="http://www.onthebass.com.br/belavista/slider/nosso-trabalho.jpg">
+		 			 <img alt="" class="img-responsive img-circle" src="http://www.onthebass.com.br/belavista/slider/nosso-trabalho-min.png">
 					
 				</div>
 				

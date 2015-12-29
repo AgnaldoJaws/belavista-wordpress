@@ -19,7 +19,7 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="http://www.onthebass.com.br/belavista/slider/agricultura-organica-min.png" alt="Chania">
+      <img src="http://www.onthebass.com.br/belavista/slider/agricultura-organica-min-min.png" alt="Chania">
 	
 <div class="carousel-caption ">
         <h1>Agricultura Orgânica</h1>
@@ -28,7 +28,7 @@
     </div>
 
     <div class="item">
-      <img src="http://www.onthebass.com.br/belavista/slider/apicultura-min.png" alt="Chania">
+      <img src="http://www.onthebass.com.br/belavista/slider/apicultura-min-min.png" alt="Chania">
 <div class="carousel-caption">
         <h1>Apicultura</h1>
         
@@ -36,7 +36,7 @@
     </div>
 
     <div class="item">
-      <img src="http://www.onthebass.com.br/belavista/slider/comercio-dos-produtos-min.png" alt="Flower">
+      <img src="http://www.onthebass.com.br/belavista/slider/comercio-dos-produtos-min-min.png" alt="Flower">
 <div class="carousel-caption">
         <h1>Comercio dos Produtos</h1>
         
