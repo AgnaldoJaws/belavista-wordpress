@@ -1,7 +1,7 @@
 <?php
 if (function_exists ( 'register_sidebar' ))
 	register_sidebar ( array (
-			'before_widget' => '<div class="widgets">',
+			'before_widget' => '<div class=" container-fluid widgets">',
 			'after_widget' => '</div>',
 			'before_title' => '<h5>',
 			'after_title' => '</h5>',

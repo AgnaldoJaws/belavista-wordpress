@@ -55,52 +55,7 @@ footer .glyphicon {
  
 
 
-> #slider1{	
-	 margin-top:5px;
-	 
-	
-	> #subRow {
-	
-		> #myCarousel{
-		margin-left:20px;
-		
-		> .carousel-inner{
-		
-			> .item{
-			width:1060px;
-			
-			> .carousel-caption{
-			height:120px;
-			border:solid black 1px;
-			background-color:black;
-			width:100%;
-			opacity:0.8;
-			margin-left:-220px;
-			
-			h2 {
-			color:white;
-			margin-top:-5px;
-			margin-left:-15%;
-			}
-			
-			h4 {
-			color:white;
-			margin-left:-15%;
-			}
-			}
-			}
-			
-		
-		}
-	
-	}
-	}
-	
 
-
-}
-  
-	
 	
 	
 	
@@ -108,18 +63,21 @@ footer .glyphicon {
 	
 	background:#065206;
 	margin-top:5px;
+	
 		> .container {
 			> #navegacao__content {
+			
 			@include make-md-column(12);
 			.navbar {
 			
-			margin-left:75px;
 				border-radius: 0;
 				background:#065206;
 				box-shadow:none;
 				border:none;
 				margin-bottom:0;
 				.navbar-collapse{
+				
+			
 					border:none;
 					>ul.navbar-nav{
 						> li{
@@ -132,7 +90,7 @@ footer .glyphicon {
 						}
 						a{
 							color:#fff;
-							font-size: 20px;
+							font-size: 18px;
 							font-family:  myFirstFont;
 							&:hover{
 							background:#0d980d;

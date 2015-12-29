@@ -4,6 +4,11 @@
 
 
 
+#sliderSpace {
+	
+	margin-top: 50px;
+}
+
 img, 
 .wp-caption {
 	max-width: 100%;
@@ -11,6 +16,10 @@ img,
 	
 }
 
+
+#servicos{
+	margin-top: 5px;
+}
 .container-fluid {
 	
 	text-align: justify;
@@ -96,17 +105,12 @@ section {
 	background-color: #0d980d;
 }
 .sidebar .widgets {
-	box-shadow: 2px 2px 2px #888888;
-	 
-	background-color:white;
-	border: 1px solid white;
-	padding: 18px;
-	font-family: Helvetica;
-	font-size: 20px;
-	color: #333333;
-	margin-top: 20px;	
-	opacity:0.9;
-	width: 300px;
+	box-shadow: 1px 2px 2px 2px #888888;	 
+	
+	background-color: white;
+	
+	
+	
 	
 	
 }
