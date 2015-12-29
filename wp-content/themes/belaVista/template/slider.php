@@ -19,7 +19,7 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="http://www.onthebass.com.br/belavista/slider/agricultura-organica.png" alt="Chania">
+      <img src="http://www.onthebass.com.br/belavista/slider/agricultura-organica-min.png" alt="Chania">
 	
 <div class="carousel-caption ">
         <h1>Agricultura Orgânica</h1>
@@ -28,7 +28,7 @@
     </div>
 
     <div class="item">
-      <img src="http://www.onthebass.com.br/belavista/slider/apicultura.png" alt="Chania">
+      <img src="http://www.onthebass.com.br/belavista/slider/apicultura-min.png" alt="Chania">
 <div class="carousel-caption">
         <h1>Apicultura</h1>
         
@@ -36,7 +36,7 @@
     </div>
 
     <div class="item">
-      <img src="http://www.onthebass.com.br/belavista/slider/comercio-dos-produtos.png" alt="Flower">
+      <img src="http://www.onthebass.com.br/belavista/slider/comercio-dos-produtos-min.png" alt="Flower">
 <div class="carousel-caption">
         <h1>Comercio dos Produtos</h1>
         
@@ -44,7 +44,7 @@
     </div>
 
     <div class="item">
-      <img src="http://www.onthebass.com.br/belavista/slider/refeicoes.jpg" alt="Flower">
+      <img src="http://www.onthebass.com.br/belavista/slider/refeicoes-min.png" alt="Flower">
 <div class="carousel-caption">
         <h1>Refeições</h1>
         
@@ -52,14 +52,14 @@
     </div>
 
 <div class="item">
-      <img src="http://www.onthebass.com.br/belavista/slider/sistema-agroflorestal.jpg" alt="Flower">
+      <img src="http://www.onthebass.com.br/belavista/slider/sistema-agroflorestal-min.png" alt="Flower">
 <div class="carousel-caption">
         <h1>Sistema Agroflorestal</h1>
         
       </div>
     </div>
 <div class="item">
-      <img src="http://www.onthebass.com.br/belavista/slider/turismo-rural.jpg" alt="Flower">
+      <img src="http://www.onthebass.com.br/belavista/slider/turismo-rural-min.png" alt="Flower">
 <div class="carousel-caption">
         <h1>Turismo Rural</h1>
         
